@@ -1,2 +1,2 @@
-# **[Portuguese] Pokemon_Cluster**
-A humble code to give some insight for beginners students in Python
+# **Data from Kaggle**
+Competition closed: https://www.kaggle.com/c/bike-sharing-demand/data
